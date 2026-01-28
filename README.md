@@ -32,7 +32,7 @@ mvn clean test
 
 ## Generate Allure Report
 ### Generate and open report
-allure serve target/allure-results
+allure serve allure-results
 
 ## Branching Strategy
 The project uses two branches:
